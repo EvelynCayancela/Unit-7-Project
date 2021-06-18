@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #F5F5DC;
+}
+
+.header {
+    padding: 1px;
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+	color: #000066;
+    background-color: #e6e6ff;
+}
+
+.products {
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    
+}
+
+.product_buttons_box {
+    float: left;
+    width: 200px;
+    padding: 2px;
+	border: 5px groove black;
+    background-color: #ffffcc;
+    margin-right: 20px;
+	font-family: 'New Tegomin', serif;
+}
+
+.product_display {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.product_image {
+    height: 400px;
+    width: 400px;
+}
+
+.product_text {
+    font-weight: bold;
+    color:  #1b1b4b;
+    font-family: 'Bebas Neue', cursive;
+}
+
+li {
+    margin: 6px;
+  
+}
